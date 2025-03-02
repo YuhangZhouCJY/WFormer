@@ -1,0 +1,14 @@
+{
+  "result_folder": "Wmformer_m64_Combined([JpegMask(50),Jpeg(10),Identity(),Crop(0.15,0.15),Cropout(0.448,0.448),GF(2)])/",
+  "model_epoch": 106,
+  "with_diffusion": false,
+  "strength_factor": 0.95,
+  "dataset_path": "D:/wujun/coco/test/",
+  "H": 128,
+  "W": 128,
+  "message_length": 64,
+  "save_images_number": 4,
+  "noise_layers": [
+    "WebP(40)"
+  ]
+}

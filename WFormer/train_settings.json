@@ -1,0 +1,19 @@
+{
+  "project_name": "Wmformer",
+  "with_diffusion": false,
+  "only_decoder": false,
+  "epoch_number": 100,
+  "batch_size": 1,
+  "train_continue": false,
+  "train_continue_path": "/",
+  "train_continue_epoch": 0,
+  "dataset_path": "D:/wujun/coco/coco/",
+  "save_images_number": 4,
+  "H": 128,
+  "W": 128,
+  "message_length": 64,
+  "lr": 1e-3,
+  "noise_layers": [
+    "Cropout(0.7746,0.7746)"
+  ]
+}

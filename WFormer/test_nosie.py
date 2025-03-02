@@ -1,0 +1,1 @@
+# Cropout(0.547,0.547)  JpegTest(50)
