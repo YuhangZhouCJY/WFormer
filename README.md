@@ -1,7 +1,7 @@
 # WFormer
 The code of "WFormer: A Transformer-Based Soft Fusion Model for Robust Image Watermarking"
 
-Citation
+## Citation
 
 If our work is useful for your research, please consider citing:
 
